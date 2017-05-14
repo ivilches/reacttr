@@ -1,0 +1,11 @@
+{
+  "name": "reacttr",
+  "version": "1.0.0",
+  "description": "primera prueba con reactJS, curso de Carlos Azaustre",
+  "main": "/build/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Israel Vilches",
+  "license": "MIT"
+}

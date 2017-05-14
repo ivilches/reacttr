@@ -1,0 +1,8 @@
+// definimos los presets de babel que vamos a usar
+// se lee al cargarse el loader de babel
+{
+    "presets": [
+        "latest",
+        "react"
+    ]
+}
